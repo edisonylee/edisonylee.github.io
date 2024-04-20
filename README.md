@@ -1,2 +1,3 @@
 # edisonylee.github.io
-Hi 
+theme: jekyll-theme-cayman
+Hi
